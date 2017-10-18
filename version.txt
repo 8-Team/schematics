@@ -1,0 +1,5 @@
+[module]
+name=Otto Mail module
+hw_ver=0
+pcb_ver=A
+date=20171018
