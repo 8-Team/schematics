@@ -1,0 +1,26 @@
+History/
+log/
+out/
+__Previews/
+Status Report.Txt
+*.LOG
+/hwlded/*.Dat
+/sp-volt/*.Dat
+/intercard/*.Dat
+/seb3/Drawing/Imported Components/logic_carrier/*.ipt
+/seb3/Drawing/Imported Components/SP/*.iam
+/seb3/Drawing/Imported Components/SP/*.ipt
+*.iam
+*.ipt
+/seb3/Drawing/*.bak
+/seb3/Drawing/slsc-ht_digital/*.bak
+/seb3/Drawing/slsc-ht_power/*.bak
+/seb3/Drawing/sp/*.bak
+*.htm
+/seb3/overview.Dat
+*.dwl
+*.dwl2
+*.Dat
+*.bak
+
+*.DS_Store
