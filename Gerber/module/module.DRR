@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: module.PcbDoc   11/11/2017  16:54:34
+NCDrill File Report For: module.PcbDoc   11/11/2017  21:38:20
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : module-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             201       PTH        433.44mm (17.06inch)
+T1      0.3mm (12mil)                                             Round             201       PTH        403.28mm (15.88inch)
 T2      0.65mm (26mil)                                            Slot              2         PTH        9.30mm (0.37inch)
 T3      0.825mm (32mil)                                           Slot              2         PTH        18.08mm (0.71inch)
 T4      2.6mm (102mil)                                            Round             1         PTH        0.00mm (0.00inch)
@@ -16,4 +16,4 @@ T5      1.65mm (65mil)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              208
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

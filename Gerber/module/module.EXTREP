@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: module.GBR   11/11/2017  16:54:32
+Gerber File Extension Report For: module.GBR   11/11/2017  21:38:17
 ------------------------------------------------------------------------------------------
 
 
@@ -8,11 +8,14 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .G1                 Inner                                   
+.GP1                GND                                     
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
 .GM1                Outline                                 
 .GM7                PCB_Note                                
 .GD1                Drill Drawing                           
