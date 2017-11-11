@@ -22,7 +22,7 @@ R16        0402_[1005]            31.4mm        15.1mm        31.4mm        15.1
 R17        0402_[1005]            31.4mm          16mm        31.4mm          16mm        31.9mm          16mm  B        180.00 33             
 SW1        TACTILE_SWITCH_6x3.8MM_SMD        51.5mm         5.5mm        51.5mm         5.5mm       48.25mm         5.5mm  T        360.00 USER BTN       
 Y1         CRYSTAL_3.2X1.5MM_2P_SMD        15.6mm           2mm        15.6mm           2mm       16.85mm           2mm  B        180.00 32.768KHz      
-U2         DFN95P300X300X100_HS-7L        15.4mm           7mm        15.4mm           7mm       16.95mm        7.95mm  B        180.00 LD39050PU33R   
+U2         DFN95P300X300X100_HS-7L        15.4mm           7mm        15.4mm           7mm       17.05mm        7.95mm  B        180.00 LD39050PU33R   
 U3         ESP-WROOM-32         22.345mm     12.4474mm       18.75mm     12.4349mm       19.25mm     11.6349mm  T         90.00 ESP32-WROOM    
 U5         QFN50P300X300X100-16L        43.9mm        12.6mm        43.9mm        12.6mm       42.45mm        13.6mm  T        360.00 MMA8451Q       
 U6         QFN50P400X400X80_HS-21L        37.3mm        15.6mm        37.3mm        15.6mm      35.275mm        14.6mm  B        360.00 FT231XQ        
@@ -87,7 +87,7 @@ C29        0603_[1608]              44mm     18.5998mm          44mm        18.6
 C28        0402_[1005]            45.1mm        18.9mm        45.1mm        18.9mm        45.1mm        18.4mm  B         90.00 100nF          
 C27        0402_[1005]            41.3mm        17.7mm        41.3mm        17.7mm        41.8mm        17.7mm  B        180.00 10nF           
 C19        0603_[1608]         40.0002mm          14mm          40mm          14mm     39.3002mm          14mm  T        360.00 4.7uF          
-C18        0402_[1005]            43.8mm        14.6mm        43.8mm        14.6mm        43.8mm        14.1mm  B         90.00 100nF          
+C18        0402_[1005]            43.8mm        14.7mm        43.8mm        14.7mm        43.8mm        14.2mm  B         90.00 100nF          
 BUZ1       BUZZER_9x9MM_SMD          47mm         9.1mm          47mm         9.1mm       42.55mm         9.1mm  B        360.00 BUZZER         
 C7         0402_[1005]            14.4mm         4.6mm        14.4mm         4.6mm        14.9mm         4.6mm  B        180.00 100nF          
 R11        0402_[1005]            31.4mm        17.8mm        31.4mm        17.8mm        30.9mm        17.8mm  B        360.00 33             
